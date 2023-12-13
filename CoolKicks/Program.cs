@@ -1,6 +1,7 @@
 using CoolKicks.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics.Tracing;
+using System.Runtime.CompilerServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -31,7 +32,7 @@ if (app.Environment.IsDevelopment())
 }
 
 //middleware that will let mvc handle the incoming requests on controllers
-app.MapDefaultControllerRoute();
+app.MapDefaultControllerRoute();  //this is the default controller route "{controller=Home}/{action=Index}/{id?}"
 
 //Creating my seed data
 DbInitializer.Seed(app);

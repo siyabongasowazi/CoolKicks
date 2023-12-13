@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eJtUzWSZtTVBrDciqmQSp2dLL2frIS3HUUK9Eea/EWBL/vH408WONYz9lkdBm8BUpS3is9M9Xdy/p2E2MKaioA==",
+  "dgSpecHash": "15IAXBgp5Fg2M3PoCaRKx4ziLVsc62ybWio6R5rc8m1B04V9OhWxMkEI5+Q1Bss7Dzk9TwIPci+WlFbMLkXKRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Siyabonga.Sowazi\\Downloads\\CoolKicks (1)\\CoolKicks\\CoolKicks.csproj",
+  "projectFilePath": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\CoolKicks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Siyabonga.Sowazi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Siyabonga.Sowazi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

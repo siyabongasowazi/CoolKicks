@@ -20,5 +20,13 @@ namespace CoolKicks.Controllers
             SneakerListViewModel sneakerListViewModel = new SneakerListViewModel(_sneakerRepository.GetAllSneakers, "Trending Kicks");
             return View(sneakerListViewModel);  
         }
+
+        public IActionResult Details(int id) 
+        {
+            var sneaker = _sneakerRepository.GetSneakerByID(id);
+            if(sneaker == null) 
+                return NotFound();
+            return View(sneaker);
+        }
     }
 }

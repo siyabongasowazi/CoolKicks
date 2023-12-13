@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Siyabonga.Sowazi\\Downloads\\CoolKicks (1)\\CoolKicks\\CoolKicks.csproj",
+      "projectUniqueName": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\CoolKicks.csproj",
       "projectName": "CoolKicks",
-      "projectPath": "C:\\Users\\Siyabonga.Sowazi\\Downloads\\CoolKicks (1)\\CoolKicks\\CoolKicks.csproj",
+      "projectPath": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\CoolKicks.csproj",
       "packagesPath": "C:\\Users\\Siyabonga.Sowazi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Siyabonga.Sowazi\\Downloads\\CoolKicks (1)\\CoolKicks\\obj\\",
+      "outputPath": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
