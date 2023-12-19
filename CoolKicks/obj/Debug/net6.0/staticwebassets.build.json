@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zSQFMxrJWtC00NoMf1dkRQusTspbXg/6fzi/2QTPvzM=",
+  "Hash": "Mh9chKphmsAge7UkfL7gpVQXZ8U2j1q8gc2Bw+DI9+E=",
   "Source": "CoolKicks",
   "BasePath": "_content/CoolKicks",
   "Mode": "Default",
@@ -68,12 +68,12 @@
       "OriginalItemSpec": "wwwroot\\Images\\bethanys-pie-shop-logomark.png"
     },
     {
-      "Identity": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\carousel1.jpg",
+      "Identity": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\C1.png",
       "SourceId": "CoolKicks",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\",
       "BasePath": "_content/CoolKicks",
-      "RelativePath": "Images/carousel1.jpg",
+      "RelativePath": "Images/C1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\carousel1.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\C1.png"
     },
     {
-      "Identity": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\carousel2.jpg",
+      "Identity": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\C2.png",
       "SourceId": "CoolKicks",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\",
       "BasePath": "_content/CoolKicks",
-      "RelativePath": "Images/carousel2.jpg",
+      "RelativePath": "Images/C2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\carousel2.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\C2.png"
     },
     {
-      "Identity": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\carousel3.jpg",
+      "Identity": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\C3.jpg",
       "SourceId": "CoolKicks",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\",
       "BasePath": "_content/CoolKicks",
-      "RelativePath": "Images/carousel3.jpg",
+      "RelativePath": "Images/C3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,7 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\carousel3.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\C3.jpg"
     },
     {
       "Identity": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\contact\\contact.jpg",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\CoolKicksLogo.png"
+    },
+    {
+      "Identity": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\CSPicture1.png",
+      "SourceId": "CoolKicks",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\",
+      "BasePath": "_content/CoolKicks",
+      "RelativePath": "Images/CSPicture1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\CSPicture1.png"
     },
     {
       "Identity": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",

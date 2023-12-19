@@ -16,7 +16,7 @@
                     </h4>
                     <div class="d-flex justify-content-between mt-2">
                         <h2 class="text-start">
-                            <a class="pie-link">@sneaker.SneakerName</a>
+                            <a class="pie-link" asp-controller="Sneaker" asp-action="Details" asp-route-id="@sneaker.SneakerID">@sneaker.SneakerName</a>
                         </h2>
                         <h5 class="text-nowrap">
                             @sneaker.Price.ToString("c")

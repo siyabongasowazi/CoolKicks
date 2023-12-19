@@ -1,6 +1,22 @@
 {
   "Files": [
     {
+      "Id": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\C1.png",
+      "PackagePath": "staticwebassets\\Images\\C1.png"
+    },
+    {
+      "Id": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\C2.png",
+      "PackagePath": "staticwebassets\\Images\\C2.png"
+    },
+    {
+      "Id": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\C3.jpg",
+      "PackagePath": "staticwebassets\\Images\\C3.jpg"
+    },
+    {
+      "Id": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\CSPicture1.png",
+      "PackagePath": "staticwebassets\\Images\\CSPicture1.png"
+    },
+    {
       "Id": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\CoolKicksLogo.png",
       "PackagePath": "staticwebassets\\Images\\CoolKicksLogo.png"
     },
@@ -11,18 +27,6 @@
     {
       "Id": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\bethanys-pie-shop-logomark.png",
       "PackagePath": "staticwebassets\\Images\\bethanys-pie-shop-logomark.png"
-    },
-    {
-      "Id": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\carousel1.jpg",
-      "PackagePath": "staticwebassets\\Images\\carousel1.jpg"
-    },
-    {
-      "Id": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\carousel2.jpg",
-      "PackagePath": "staticwebassets\\Images\\carousel2.jpg"
-    },
-    {
-      "Id": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\carousel3.jpg",
-      "PackagePath": "staticwebassets\\Images\\carousel3.jpg"
     },
     {
       "Id": "C:\\SiyabongaSowaziGitHub\\siyabongasowazi\\CoolKicks\\CoolKicks\\wwwroot\\Images\\contact\\contact.jpg",
